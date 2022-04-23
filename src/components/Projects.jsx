@@ -16,7 +16,7 @@ const Projects = () => {
 
             {/* Grid Item */}
           <div
-            className="bg-MovieImg hover:bg-MovieImgHover hover:scale-105 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div abc"
+            className="bg-MovieImg before:content-MoviesImg-invisible hover:bg-MovieImgHover hover:scale-105 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div abc"
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
@@ -38,7 +38,7 @@ const Projects = () => {
             </div>
           </div>
           <div
-            className='bg-WordleImg hover:bg-WordleImgHover hover:scale-105 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+            className='bg-WordleImg before:content-WordleImg-invisible hover:bg-WordleImgHover hover:scale-105 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
