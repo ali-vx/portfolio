@@ -14,6 +14,15 @@
     }
 }
 
+body:after {
+    content: url('/src/assets/project-1-dark.png') url('/src/assets/project-2-dark.png');
+    position:absolute;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    z-index: -1;
+}
+
 .content-div {
     background-repeat: no-repeat;
     background-size: cover;
