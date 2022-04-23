@@ -18,8 +18,7 @@ const Projects = () => {
 
             {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${MovieImg})`}}
-            className='hover:scale-105 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div abc'
+            className="bg-MovieImg hover:bg-MovieImgHover hover:scale-105 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div abc"
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
@@ -41,8 +40,7 @@ const Projects = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${WordleImg})` }}
-            className='hover:scale-105 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+            className='bg-WordleImg hover:bg-WordleImgHover hover:scale-105 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>

@@ -20,11 +20,3 @@
     background-position: center;
     height: 250px;
 }
-
-.content-div:hover {
-    background-image: linear-gradient(
-        to right,
-        #2A2E32,
-        #2A2E32
-    ) !important;
-}
