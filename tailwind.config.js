@@ -8,6 +8,8 @@ module.exports = {
 				MovieImgHover: "url(/src/assets/project-1-dark.png)",
 				WordleImg: "url(/src/assets/project-2.png)",
 				WordleImgHover: "url(/src/assets/project-2-dark.png)",
+				WikiImg: "url(/src/assets/project-3.png)",
+				WikiImgHover: "url(/src/assets/project-3-dark.png)",
 			},
 			screens: {
 				betterhover: { raw: "(hover: hover)" },
