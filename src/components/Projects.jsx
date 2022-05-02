@@ -21,7 +21,7 @@ const Projects = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                Movies Database
+                React Movies App
               </span>
               <div className='pt-8 text-center'>
                 <a target="_blank" rel="noopener noreferrer" href='https://ali-vx.github.io/react-movies-database/'>
@@ -43,7 +43,7 @@ const Projects = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                Wordle Clone
+                Flutter Wordle Clone
               </span>
               <div className='pt-8 text-center'>
                 <a target="_blank" rel="noopener noreferrer" href='https://github.com/ali-vx/wordle_app'>
@@ -61,7 +61,7 @@ const Projects = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                Wikipedia Search
+                React Wiki Search
               </span>
               <div className='pt-8 text-center'>
                 <a target="_blank" rel="noopener noreferrer" href='https://ali-vx.github.io/react-wiki-search/'>
@@ -78,25 +78,20 @@ const Projects = () => {
             </div>
           </div>
           <div
-            className='hover:scale-105 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+            className='bg-ChatImg hover:bg-ChatImgHover hover:scale-105 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
-            </div>
-          </div>
-            {/* Grid Item */}
-          <div
-            className='hover:scale-105 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
-          >
-            {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
-            </div>
-          </div>
-          <div
-            className='hover:scale-105 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
-          >
-            {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
+              <span className='text-2xl font-bold text-white tracking-wider'>
+                Firebase Chat App
+              </span>
+              <div className='pt-8 text-center'>
+                <a target="_blank" rel="noopener noreferrer" href='https://chat-app-613cb.web.app/'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                    Demo
+                  </button>
+                </a>
+              </div>
             </div>
           </div>
         </div>
