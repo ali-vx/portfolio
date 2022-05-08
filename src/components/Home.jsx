@@ -16,7 +16,7 @@ const Home = () => {
           I’m a software Engineer specializing in React,Flutter and  UI/UX Design to deliver exceptional experiences for Web and Mobile with a heavy emphasis on Design and User Experience.
         </p>
         <div>
-        <a className='resume-btn' href="#">
+        <a className='resume-btn' href="/">
         <span></span>
         <span></span>
         <span></span>
