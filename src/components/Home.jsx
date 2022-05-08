@@ -1,5 +1,4 @@
 import React from 'react';
-import { HiArrowNarrowRight } from 'react-icons/hi';
 
 const Home = () => {
   return (
@@ -17,12 +16,19 @@ const Home = () => {
           I’m a software Engineer specializing in React,Flutter and  UI/UX Design to deliver exceptional experiences for Web and Mobile with a heavy emphasis on Design and User Experience.
         </p>
         <div>
-          <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#FD413C] hover:border-[#FD413C]'>
+        <a className='resume-btn' href="#">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        Download Resume
+        </a>
+          {/* <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#FD413C] hover:border-[#FD413C]'>
             Download Resume
             <span>
               <HiArrowNarrowRight className='ml-3 ' />
             </span>
-          </button>
+          </button> */}
         </div>
       </div>
     </div>
