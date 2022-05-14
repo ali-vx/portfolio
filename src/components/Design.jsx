@@ -50,7 +50,7 @@ const Design = () => {
             </div>
           </section>
         </div>
-        <a target="_blank" rel="noopener noreferrer" href='https://flic.kr/s/aHBqjzPgG4' className='text-white group border-2 opacity-75 rounded-lg px-6 py-3 my-2 flex items-center justify-center see-more-btn hover:border-[#FD413C] hover:opacity-100'>
+        <a target="_blank" rel="noopener noreferrer" href='https://flic.kr/s/aHBqjzPgG4' className='see-more-btn text-white group border-2 px-6 py-3 my-2 flex items-center justify-center hover:bg-[#FD413C] hover:border-[#FD413C]'>
             See More
           </a>
       </div>

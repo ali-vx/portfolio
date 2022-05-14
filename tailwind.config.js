@@ -17,6 +17,8 @@ module.exports = {
 			},
 			screens: {
 				betterhover: { raw: "(hover: hover)" },
+				mobile: "640px",
+				mobileMax: { max: "640px" },
 			},
 		},
 	},
