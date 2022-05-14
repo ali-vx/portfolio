@@ -17,14 +17,14 @@ const Home = () => {
           I’m a software Engineer specializing in React,Flutter and  UI/UX Design to deliver exceptional experiences for Web and Mobile with a heavy emphasis on Design and User Experience.
         </p>
         <div>
-        <a className='mobileMax:hidden resume-btn' target="_blank" rel="noopener noreferrer" href={CV}>
+        <a className='max:hidden resume-btn' target="_blank" rel="noopener noreferrer" href={CV}>
         <span></span>
         <span></span>
         <span></span>
         <span></span>
         Download CV
         </a>
-        <button className='mobile:hidden see-more-btn text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#FD413C] hover:border-[#FD413C]'>
+        <button className='md:hidden see-more-btn text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#FD413C] hover:border-[#FD413C]'>
           Download Resume
         </button>
         </div>

@@ -1,10 +1,10 @@
 import React from 'react';
-import Img1 from '../assets/1.png'
-import Img2 from '../assets/2.png'
-import Img3 from '../assets/3.png'
-import Img4 from '../assets/4.png'
-import Img5 from '../assets/5.png'
-import Img6 from '../assets/6.png'
+import Img1 from '../assets/1.webp'
+import Img2 from '../assets/2.webp'
+import Img3 from '../assets/3.webp'
+import Img4 from '../assets/4.webp'
+import Img5 from '../assets/5.webp'
+import Img6 from '../assets/6.webp'
 
 const Design = () => {
   return (

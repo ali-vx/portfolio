@@ -15,11 +15,11 @@
 }
 
 body:after {
-    content: url('/src/assets/project-1-dark.png') 
-    url('/src/assets/project-2-dark.png') 
-    url('/src/assets/project-3-dark.png') 
-    url('/src/assets/project-4-dark.png')
-    url('/src/assets/project-5-dark.png');
+    content: url('/src/assets/project-1-dark.webp') 
+    url('/src/assets/project-2-dark.webp') 
+    url('/src/assets/project-3-dark.webp') 
+    url('/src/assets/project-4-dark.webp')
+    url('/src/assets/project-5-dark.webp');
     position:absolute;
     width: 0;
     height: 0;
