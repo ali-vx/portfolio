@@ -19,7 +19,8 @@ body:after {
     url('/src/assets/project-2-dark.webp') 
     url('/src/assets/project-3-dark.webp') 
     url('/src/assets/project-4-dark.webp')
-    url('/src/assets/project-5-dark.webp');
+    url('/src/assets/project-5-dark.webp')
+    url('/src/assets/project-6-dark.webp');
     position:absolute;
     width: 0;
     height: 0;

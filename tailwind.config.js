@@ -14,6 +14,8 @@ module.exports = {
 				ChatImgHover: "url(/src/assets/project-4-dark.webp)",
 				QrImg: "url(/src/assets/project-5.webp)",
 				QrImgHover: "url(/src/assets/project-5-dark.webp)",
+				WeatherImg: "url(/src/assets/project-6.webp)",
+				WeatherImgHover: "url(/src/assets/project-6-dark.webp)",
 			},
 			screens: {
 				betterhover: { raw: "(hover: hover)" },
