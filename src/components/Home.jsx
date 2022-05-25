@@ -14,7 +14,7 @@ const Home = () => {
           Developer and UI/UX Designer.
         </h2>
         <p className='text-[#A6A7A9] py-4 max-w-[700px]'>
-          I’m a software Engineer specializing in React,Flutter and  UI/UX Design to deliver exceptional experiences for Web and Mobile with a heavy emphasis on Design and User Experience.
+        I'm a Front End Developer and UI/UX Designer from Islamabad, Pakistan.
         </p>
         <div>
         <a className='max:hidden resume-btn' target="_blank" rel="noopener noreferrer" href={CV}>

@@ -7,6 +7,7 @@
 @layer base {
     body {
         @apply font-[Raleway];
+        background-color: #212529;
     }
     li {
         @apply px-4;
@@ -145,4 +146,10 @@ body:after {
                 0 0 50px #d4484396,
                 0 0 100px #d4484396;
     transition: all 0.25s;
+  }
+  .text-about {
+    word-spacing: 4px;
+    font-size: 1rem;
+    line-height: 170%;
+    text-indent: 20px;
   }

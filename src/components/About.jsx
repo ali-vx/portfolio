@@ -17,7 +17,9 @@ const About = () => {
               <p className='text-gray-300' >Hi! My name is Ali, nice to meet you.</p>
             </div>
             <div>
-              <p className='text-[#A6A7A9]'>I'm a graduate of Software Engineering from International Islamic University, Islamabad.</p>  
+              <p className='text-[#A6A7A9] text-about'>I’m a software Engineer graduate from the <a className='text-[#FD413C]' target="_blank" rel="noopener noreferrer" href='https://iiu.edu.pk/'>International Islamic University</a>, Islamabad specializing in Front End Web Development and UI/UX Design.</p>
+              <p className='text-[#A6A7A9] text-about'>The tools and technologies I have worked with are mostly related to web design and development such as JavaScript, React, Redux, Bootstrap, Tailwind CSS, Flutter, Firebase and Figma among others.</p>
+              <p className='text-[#A6A7A9] text-about'>I have a strong passion for learning new things, and I am always looking to improve my skills.</p>   
             </div>
           </div>
       </div>
