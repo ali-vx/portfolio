@@ -24,9 +24,11 @@ const Home = () => {
         <span></span>
         Download CV
         </a>
-        <button className='md:hidden see-more-btn text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#FD413C] hover:border-[#FD413C]'>
+        <form target="_blank" rel="noopener noreferrer">
+        <button formaction={CV} className='md:hidden see-more-btn text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#FD413C] hover:border-[#FD413C]'>
           Download CV
         </button>
+        </form>
         </div>
       </div>
     </div>
