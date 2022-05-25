@@ -25,7 +25,7 @@ const Home = () => {
         Download CV
         </a>
         <button className='md:hidden see-more-btn text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#FD413C] hover:border-[#FD413C]'>
-          Download Resume
+          Download CV
         </button>
         </div>
       </div>
