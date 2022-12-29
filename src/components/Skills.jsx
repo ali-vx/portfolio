@@ -5,9 +5,9 @@ import CSS from '../assets/css.png';
 import JavaScript from '../assets/javascript.png';
 import ReactImg from '../assets/react.png';
 import Figma from '../assets/figma.png';
-import firebase from '../assets/firebase.png';
+import Photoshop from '../assets/photoshop.png';
 import AdobeXd from '../assets/adobexd.png';
-import Flutter from '../assets/flutter.png';
+import illustrator from '../assets/illustrator.png';
 
 const Skills = () => {
   return (
@@ -45,12 +45,12 @@ const Skills = () => {
                   <p className='my-4'>Figma</p>
               </div>
               <div className='bg-[#2A2E32] pt-8 shadow-md shadow-[#040c1685] rounded-md hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={Flutter} alt="HTML icon" />
-                  <p className='my-4'>Flutter</p>
+                  <img className='w-20 mx-auto' src={illustrator} alt="HTML icon" />
+                  <p className='my-4'>illustrator</p>
               </div>
               <div className='bg-[#2A2E32] pt-8 shadow-md shadow-[#040c1685] rounded-md hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={firebase} alt="HTML icon" />
-                  <p className='my-4'>Firebase</p>
+                  <img className='w-20 mx-auto' src={Photoshop} alt="HTML icon" />
+                  <p className='my-4'>Photoshop</p>
               </div>
           </div>
       </div>
